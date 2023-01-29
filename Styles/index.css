@@ -36,3 +36,13 @@ img
     box-shadow: 10px 10px 20px purple;
 
 }
+.sara-info.study-info
+{ background-color: darkgray;
+    display: inline-block;
+    max-height: 200px;
+    max-width: 200px;
+    padding: 5px;
+    margin: 5px;
+    border: 5px sandybrown;
+
+}
