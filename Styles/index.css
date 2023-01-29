@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(53, 4, 14);
+    font-size: 60px;
+    font-weight: bold;
+    font: weight 700px;
+    font-style: italic;
+    text-align: center;
+    background-color:rgb(160, 34, 34)
+}
+#Future-developer  {
+    color: rgb(150, 8, 102);
+}
+.sara-info, .study-info {
+    color: rgb(109, 3, 3);
+}
+
+body {
+background-image: url(../Images/R\ \(3\).jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+height: 200vh;}
+
+p {
+    font-size: 25px;
+    font-style: normal;
+}
+img
+{
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(3, 3, 36);
+    border-top: solid rgb(20, 20, 78);
+    border-radius: 50%;
+    box-shadow: 10px 10px 20px purple;
+
+}
